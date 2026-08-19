@@ -1,0 +1,50 @@
+* {
+    background-color: beige;
+}
+
+a {
+    text-align: center;
+    display: block;
+}
+
+.home {
+    color: #e64cb5;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+p {
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 6px;
+}
+
+li::marker {
+    color: #e64cb5;
+    font-weight: bold;
+}
+
+li {
+    padding: 7px;
+    margin: 10px;
+}
+
+ol {
+    font-size: 20px;
+}
+
